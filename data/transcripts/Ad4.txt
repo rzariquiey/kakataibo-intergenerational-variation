@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Roberto" audio_filename="Ad4-NA-2008" version="1" version_date="081218">
+<Speakers>
+<Speaker id="spk1" name="Hablante Ad4" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="182.197">
+<Turn startTime="0" endTime="182.197" speaker="spk1">
+<Sync time="0"/>
+bëtsi bëtsi unin bana mësku ikën
+
+<Sync time="5.456"/>
+xëxakama kwanxonka imainun xonka imainun anëruakëxa kaisa
+
+<Sync time="12.765"/>
+Isa Kuna kakë ain anëakëxa kaisa
+
+<Sync time="20.011"/>
+urukin kaisa anëruakëxa baka ain
+
+<Sync time="25.992"/>
+mix kamina tunonka ain kaisa iakëxa
+
+<Sync time="33.393"/>
+usa ain ka bakakama ain anëkama unankëxa
+
+<Sync time="38.486"/>
+bakakama xëxá rarán papakama baka chakama anëruakëxa
+
+<Sync time="44.038"/>
+ain anëkama anëtikupi tsipumiax
+
+<Sync time="50.023"/>
+kweoka kama anëruakëxa
+
+<Sync time="55.496"/>
+isa kuna kaisa iakëxa
+
+<Sync time="61.629"/>
+nukën baba imainun nukën bëchikë akëxa
+
+<Sync time="67.273"/>
+mix kamina paru ain kaisa iakëxa
+
+<Sync time="73.802"/>
+unankin anëakëxa ain kananuna
+
+<Sync time="80.457"/>
+kana mitsu kaisatanin Isa Kunabu ain anëakëxa
+
+<Sync time="86.886"/>
+a kama unin puruma unia akamaribi
+
+<Sync time="93.959"/>
+kamabi xëxakama anëruakëxa kaisa
+
+<Sync time="101.418"/>
+unankin anunbi anëakëxa
+
+<Sync time="107.500"/>
+a bana ñuixunkin kanioruin ain
+
+<Sync time="113.505"/>
+a banakama ka sinankin ain aintsikama ñuixunti ikën
+
+<Sync time="120.893"/>
+kamabi anëruakëxa kaisa Isa Kuna tsipumiax
+
+<Sync time="127.307"/>
+mix kamina xonka ain kaisa iakëxa
+
+<Sync time="134.471"/>
+mix kamina uantia ain kaisa iakëxa
+
+<Sync time="140.691"/>
+mix kamina kwanxonka ain kaisa iakëxa
+
+<Sync time="148.174"/>
+usa okin ka nukën xutabaën akëxa
+
+<Sync time="154.362"/>
+a bakakama ain anëkama unankëxa
+
+<Sync time="159.933"/>
+a unin baka kamabi anëruakëxa kaisa
+
+<Sync time="166.179"/>
+ain anë iti kaisa iakëxa
+
+<Sync time="171.930"/>
+mix kamina kunuari ain kaisa iakëxa
+</Turn>
+</Section>
+</Episode>
+</Trans>

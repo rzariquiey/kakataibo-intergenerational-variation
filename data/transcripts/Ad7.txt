@@ -1,0 +1,87 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Roberto" audio_filename="Ad7-NA-2008" version="1" version_date="081218">
+<Speakers>
+<Speaker id="spk1" name="Hablante Ad7" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="172.009">
+<Turn startTime="0" endTime="172.009" speaker="spk1">
+<Sync time="0"/>
+mix kamina kwanxonka ain kaisa iakëxa
+
+<Sync time="6.745"/>
+uikaman kara kwakëxa a banakama
+
+<Sync time="12.990"/>
+isa kuna kaisa iakëxa
+
+<Sync time="19.879"/>
+ain babakama ësëkin ñuixuntikupi kananuna
+
+<Sync time="27.308"/>
+mix kamina paru ain kaisa iakëxa
+
+<Sync time="34.195"/>
+a kama unin puruma unia akamaribi
+
+<Sync time="42.478"/>
+ain anëkama anëtikupi tsipumiax
+
+<Sync time="48.253"/>
+Isa Kuna kweoka kama xëxakamaribi anëruakëxa
+
+<Sync time="54.846"/>
+bëtsi bëtsi unin bana mësku ikën
+
+<Sync time="61.933"/>
+mix kamina maxëoka ain kaisa iakëxa
+
+<Sync time="67.693"/>
+mix kamina xonka ain kaisa iakëxa
+
+<Sync time="74.638"/>
+a unin baka kamabi anëruakëxa kaisa
+
+<Sync time="81.882"/>
+sinankin ñuixunti ain nunribi
+
+<Sync time="88.370"/>
+kweoka kama anëruakëxa
+
+<Sync time="96.801"/>
+a banakama ka sinankin ain aintsikama ñuixunti ikën
+
+<Sync time="103.416"/>
+a bakakama Isa Kuna anëa anunbi anëakëxa
+
+<Sync time="110.084"/>
+unankin anunbi anëakëxa
+
+<Sync time="117.391"/>
+mix kamina banaoka ain kaisa iakëxa
+
+<Sync time="123.768"/>
+mix kamina kunuari ain kaisa iakëxa
+
+<Sync time="130.727"/>
+mix kamina tashia ain kaisa iakëxa
+
+<Sync time="136.799"/>
+kana mitsu kaisatanin Isa Kunabu ain anëakëxa
+
+<Sync time="142.589"/>
+ain anë iti kaisa iakëxa
+
+<Sync time="150.149"/>
+kamabi xëxakama anëruakëxa kaisa
+
+<Sync time="156.565"/>
+unankin anëakëxa ain kananuna
+
+<Sync time="162.650"/>
+mix kamina binpishoka ain kaisa iakëxa
+</Turn>
+</Section>
+</Episode>
+</Trans>

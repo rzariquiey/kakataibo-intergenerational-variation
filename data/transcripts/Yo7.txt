@@ -1,0 +1,48 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Roberto" audio_filename="Yo7-NA-2008" version="1" version_date="081218">
+<Speakers>
+<Speaker id="spk1" name="Hablante Yo7" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="71.462">
+<Turn startTime="0" endTime="71.462" speaker="spk1">
+<Sync time="0"/>
+ain babakama ësëkin ñuixunti
+
+<Sync time="5.345"/>
+bëtsi unin bana mësku ikën
+
+<Sync time="11.841"/>
+baka ain kamabi iakëxa
+
+<Sync time="17.952"/>
+kamabi anëruakëxa Isa Kuna ain
+
+<Sync time="24.034"/>
+Isa Kuna ain iakëxa
+
+<Sync time="30.747"/>
+a bana ñuixunkin ain
+
+<Sync time="35.721"/>
+mix kamina uantia ain
+
+<Sync time="40.949"/>
+ain anëkama anëruakëxa
+
+<Sync time="46.548"/>
+mix kamina kwanxonka ain
+
+<Sync time="51.749"/>
+unankin ain anëakëxa
+
+<Sync time="56.915"/>
+usa okin ka xutabaën akëxa
+
+<Sync time="61.875"/>
+baka anërui uruakëxa
+</Turn>
+</Section>
+</Episode>
+</Trans>

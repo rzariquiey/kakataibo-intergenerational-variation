@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Roberto" audio_filename="El1-NA-2008" version="1" version_date="081218">
+<Speakers>
+<Speaker id="spk1" name="Hablante El1" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="355.293">
+<Turn startTime="0" endTime="355.293" speaker="spk1">
+<Sync time="0"/>
+bakakama imainun xëxá rarán papakama imainun baka chakama a këñunbi kaisa urukin cháxkibëkinkin achushi uni Isa Kuna kakë an ain manë xon cháxkibëkinkin kaisa a unin baka kamabi xëxá imainun raran papakama anëruakëxa
+
+<Sync time="48.841"/>
+ain anë iti
+<Sync time="62.795"/>
+mix kamina paru ain
+<Sync time="75.355"/>
+mix kamina parun papa ain
+<Sync time="87.914"/>
+mix kamina uantia ain
+<Sync time="100.473"/>
+mix kamina banaoka ain
+<Sync time="113.032"/>
+mix kamina bukuña ain
+<Sync time="125.591"/>
+mix kamina tashia ain
+<Sync time="138.150"/>
+mix kamina imu koñu ain
+<Sync time="150.709"/>
+mix kamina binpishoka ain
+<Sync time="163.268"/>
+mix kamina toñu ain
+<Sync time="175.827"/>
+mix kamina maxëoka ain
+<Sync time="188.386"/>
+mix kamina tunonka ain
+<Sync time="200.945"/>
+mix kamina kwanxonka ain
+<Sync time="213.505"/>
+mix kamina xonka ain
+<Sync time="226.064"/>
+mix kamina kunuari ain
+
+<Sync time="238.623"/>
+ain babakama ësëkin ñuixuntikupi kananuna akama sinankin ñuixuntikupi ñuixunti ain
+
+<Sync time="255.293"/>
+kamabi anëruakëxa kaisa Isa Kuna chaxkibëkinkin oi kwainbëkinkin anëtikupi tsipumiax
+
+<Sync time="273.500"/>
+ain kananuna nun abana ñuixun ixun sinanin
+
+<Sync time="286.104"/>
+unankin anëakëxa urukin kaisa kweokakama anëruakëxa Isa Kuna kakë ain
+
+<Sync time="304.286"/>
+kamabi anëin miakëxa tsipumiax ësakin baka ain manë xon chaxkibëkinkin anërui kaisa
+
+<Sync time="321.716"/>
+usa ain kananuna nunribi a bakakama anunribi anëin in anënbi anëin
+
+<Sync time="336.649"/>
+unankin anunbi anëakëxa
+</Turn>
+</Section>
+</Episode>
+</Trans>

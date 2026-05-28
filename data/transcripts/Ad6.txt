@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Roberto" audio_filename="Ad6-NA-2008" version="1" version_date="081218">
+<Speakers>
+<Speaker id="spk1" name="Hablante Ad6" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="86.518">
+<Turn startTime="0" endTime="86.518" speaker="spk1">
+<Sync time="0"/>
+mix kamina kwanxonka ain kaisa iakëxa
+
+<Sync time="5.930"/>
+xëxakama kwanxonka imainun xonka imainun anëruakëxa kaisa
+
+<Sync time="11.711"/>
+mix kamina tunonka ain kaisa iakëxa
+
+<Sync time="18.472"/>
+mix kamina maxëoka ain kaisa iakëxa
+
+<Sync time="25.620"/>
+urukin kaisa anëruakëxa baka ain
+
+<Sync time="31.050"/>
+mix kamina tashia ain kaisa iakëxa
+
+<Sync time="38.292"/>
+ain anë iti kaisa iakëxa
+
+<Sync time="45.287"/>
+Isa Kuna kweoka kama xëxakamaribi anëruakëxa
+
+<Sync time="50.704"/>
+a bakakama ain anëkama unankëxa
+
+<Sync time="57.657"/>
+ain babakama ësëkin ñuixuntikupi kananuna
+
+<Sync time="63.075"/>
+a kama unin puruma unia akamaribi
+
+<Sync time="69.992"/>
+mix kamina banaoka ain kaisa iakëxa
+
+<Sync time="77.059"/>
+kamabi xëxakama anëruakëxa kaisa
+</Turn>
+</Section>
+</Episode>
+</Trans>

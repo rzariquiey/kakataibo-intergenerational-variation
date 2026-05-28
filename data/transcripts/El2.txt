@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Roberto" audio_filename="El2-NA-2008" version="1" version_date="081218">
+<Speakers>
+<Speaker id="spk1" name="Hablante El2" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="313.122">
+<Turn startTime="0" endTime="313.122" speaker="spk1">
+<Sync time="0"/>
+bakakama imainun xëxá rarán papakama imainun baka chakama a këñunbi kaisa urukin cháxkibëkinkin achushi uni Isa Kuna kakë an ain manë xon cháxkibëkinkin kaisa a unin baka kamabi xëxá imainun raran papakama anëruakëxa
+
+<Sync time="48.841"/>
+ain anë iti
+<Sync time="62.795"/>
+mix kamina paru ain
+<Sync time="75.355"/>
+mix kamina parun papa ain
+<Sync time="87.914"/>
+mix kamina uantia ain
+<Sync time="100.473"/>
+mix kamina banaoka ain
+<Sync time="113.032"/>
+mix kamina bukuña ain
+<Sync time="125.591"/>
+mix kamina tashia ain
+<Sync time="138.150"/>
+mix kamina binpishoka ain
+<Sync time="150.709"/>
+mix kamina toñu ain
+<Sync time="163.268"/>
+mix kamina maxëoka ain
+<Sync time="175.827"/>
+mix kamina kwanxonka ain
+<Sync time="188.386"/>
+mix kamina xonka ain
+<Sync time="200.945"/>
+mix kamina kunuari ain
+
+<Sync time="213.505"/>
+urukin kaisa kweokakama anëruakëxa
+
+<Sync time="227.184"/>
+kamabi anëin miakëxa tsipumiax ësakin baka ain manë xon chaxkibëkinkin anërui kaisa
+
+<Sync time="245.566"/>
+ain kananuna bëtsi bëtsi unin bana ka mësku ikën usa ain
+
+<Sync time="259.023"/>
+xëxakama anëruakëxa kaisa Isa Kunabu ax chaxkibëkini kweokakama oi kwainbëkinkin
+
+<Sync time="274.281"/>
+ain babakama ësëkin ñuixuntikupi kananuna akama sinankin ñuixuntikupi ñuixunti ain
+
+<Sync time="293.666"/>
+usa ain kananuna usa okinribi nun bëchikëkama nukën babakama aribi atunribi anën anëtikupi a bana ñuixunkin kanioruin
+</Turn>
+</Section>
+</Episode>
+</Trans>

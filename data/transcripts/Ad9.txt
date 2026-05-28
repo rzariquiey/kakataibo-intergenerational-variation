@@ -1,0 +1,54 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Roberto" audio_filename="Ad9-NA-2008" version="1" version_date="081218">
+<Speakers>
+<Speaker id="spk1" name="Hablante Ad9" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="95.787">
+<Turn startTime="0" endTime="95.787" speaker="spk1">
+<Sync time="0"/>
+uikaman kara kwakëxa a banakama
+
+<Sync time="6.928"/>
+a banakama ka sinankin ain aintsikama ñuixunti ikën
+
+<Sync time="12.162"/>
+usa okin ka nukën xutabaën akëxa
+
+<Sync time="17.606"/>
+kweoka kama anëruakëxa
+
+<Sync time="23.540"/>
+mix kamina paru ain kaisa iakëxa
+
+<Sync time="30.060"/>
+usa ain kananuna ñuia kwakin ain nukën rara unia
+
+<Sync time="36.148"/>
+a bakakama Isa Kuna anëa anunbi anëakëxa
+
+<Sync time="43.114"/>
+xëxakama kwanxonka imainun xonka imainun anëruakëxa kaisa
+
+<Sync time="50.855"/>
+unankin anunbi anëakëxa
+
+<Sync time="57.994"/>
+mix kamina binpishoka ain kaisa iakëxa
+
+<Sync time="64.740"/>
+mix kamina maxëoka ain kaisa iakëxa
+
+<Sync time="70.277"/>
+mix kamina kunuari ain kaisa iakëxa
+
+<Sync time="77.469"/>
+mix kamina tashia ain kaisa iakëxa
+
+<Sync time="85.074"/>
+nukën baba imainun nukën bëchikë akëxa
+</Turn>
+</Section>
+</Episode>
+</Trans>

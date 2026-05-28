@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Roberto" audio_filename="Ad3-NA-2008" version="1" version_date="081218">
+<Speakers>
+<Speaker id="spk1" name="Hablante Ad3" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="193.720">
+<Turn startTime="0" endTime="193.720" speaker="spk1">
+<Sync time="0"/>
+mix kamina kunuari ain kaisa iakëxa
+
+<Sync time="7.814"/>
+a unin baka kamabi anëruakëxa kaisa
+
+<Sync time="14.759"/>
+nukën baba imainun nukën bëchikë akëxa
+
+<Sync time="20.392"/>
+kamabi xëxakama anëruakëxa kaisa
+
+<Sync time="25.755"/>
+mix kamina xonka ain kaisa iakëxa
+
+<Sync time="32.672"/>
+nukën xutabaën nukën chaitibaën akëxa ain
+
+<Sync time="39.154"/>
+mix kamina binpishoka ain kaisa iakëxa
+
+<Sync time="46.766"/>
+Isa Kuna kweoka kama xëxakamaribi anëruakëxa
+
+<Sync time="53.542"/>
+kana mitsu kaisatanin Isa Kunabu ain anëakëxa
+
+<Sync time="60.962"/>
+usa ain ka bakakama ain anëkama unankëxa
+
+<Sync time="68.525"/>
+ain anëkama anëtikupi tsipumiax
+
+<Sync time="73.960"/>
+isa kuna kaisa iakëxa
+
+<Sync time="81.154"/>
+sinankin ñuixunti ain nunribi
+
+<Sync time="86.632"/>
+mix kamina tashia ain kaisa iakëxa
+
+<Sync time="94.283"/>
+a banakama ka sinankin ain aintsikama ñuixunti ikën
+
+<Sync time="101.531"/>
+xëxakama kwanxonka imainun xonka imainun anëruakëxa kaisa
+
+<Sync time="109.157"/>
+mix kamina uantia ain kaisa iakëxa
+
+<Sync time="115.818"/>
+ain kananuna nun abana ñuixun sinanin
+
+<Sync time="121.717"/>
+usa ain kananuna nunribi anëin
+
+<Sync time="127.091"/>
+unankin anunbi anëakëxa
+
+<Sync time="133.409"/>
+ain anë iti kaisa iakëxa
+
+<Sync time="140.781"/>
+kweoka kama anëruakëxa
+
+<Sync time="146.494"/>
+mix kamina toñu ain kaisa iakëxa
+
+<Sync time="154.286"/>
+mix kamina paru ain kaisa iakëxa
+
+<Sync time="160.375"/>
+mix kamina tunonka ain kaisa iakëxa
+
+<Sync time="166.557"/>
+usa okin ka nukën xutabaën akëxa
+
+<Sync time="172.284"/>
+Isa Kuna kakë ain anëakëxa kaisa
+
+<Sync time="178.091"/>
+a bakakama Isa Kuna anëa anunbi anëakëxa
+
+<Sync time="184.574"/>
+nukën chaiti okëkama nukën xuta okëkama ain
+</Turn>
+</Section>
+</Episode>
+</Trans>

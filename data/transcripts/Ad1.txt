@@ -1,0 +1,96 @@
+<?xml version="1.0" encoding="ISO-8859-1"?>
+<!DOCTYPE Trans SYSTEM "trans-14.dtd">
+<Trans scribe="Roberto" audio_filename="Ad1-NA-2008" version="1" version_date="081218">
+<Speakers>
+<Speaker id="spk1" name="Hablante Ad1" check="no" dialect="native" accent="" scope="local"/>
+</Speakers>
+<Episode>
+<Section type="report" startTime="0" endTime="189.534">
+<Turn startTime="0" endTime="189.534" speaker="spk1">
+<Sync time="0"/>
+nukën xutabaën nukën chaitibaën akëxa ain
+
+<Sync time="5.592"/>
+kweoka kama anëruakëxa
+
+<Sync time="13.271"/>
+usa okin ka nukën xutabaën akëxa
+
+<Sync time="19.608"/>
+unankin anunbi anëakëxa
+
+<Sync time="24.792"/>
+usa ain kananuna nunribi anëin
+
+<Sync time="31.052"/>
+ain babakama ësëkin ñuixuntikupi kananuna
+
+<Sync time="37.262"/>
+ain anë iti kaisa iakëxa
+
+<Sync time="42.922"/>
+a bakakama ain anëkama unankëxa
+
+<Sync time="50.534"/>
+mix kamina paru ain kaisa iakëxa
+
+<Sync time="55.965"/>
+ain kananuna nun abana ñuixun sinanin
+
+<Sync time="63.433"/>
+nukën chaiti okëkama nukën xuta okëkama ain
+
+<Sync time="69.989"/>
+a unin baka kamabi anëruakëxa kaisa
+
+<Sync time="75.591"/>
+mix kamina maxëoka ain kaisa iakëxa
+
+<Sync time="81.655"/>
+nukën baba imainun nukën bëchikë akëxa
+
+<Sync time="87.956"/>
+uikaman kara kwakëxa a banakama
+
+<Sync time="93.402"/>
+xëxakama kwanxonka imainun xonka imainun anëruakëxa kaisa
+
+<Sync time="100.507"/>
+usa ain ka bakakama ain anëkama unankëxa
+
+<Sync time="107.325"/>
+mix kamina xonka ain kaisa iakëxa
+
+<Sync time="114.994"/>
+mix kamina tunonka ain kaisa iakëxa
+
+<Sync time="122.271"/>
+Isa Kuna kakë ain anëakëxa kaisa
+
+<Sync time="129.434"/>
+urukin kaisa anëruakëxa baka ain
+
+<Sync time="137.141"/>
+baka anërui kaisa uruakëxa
+
+<Sync time="144.680"/>
+kana mitsu kaisatanin Isa Kunabu ain anëakëxa
+
+<Sync time="151.479"/>
+mix kamina kunuari ain kaisa iakëxa
+
+<Sync time="158.008"/>
+ain anëkama anëtikupi tsipumiax
+
+<Sync time="164.498"/>
+kamabi xëxakama anëruakëxa kaisa
+
+<Sync time="171.734"/>
+isa kuna kaisa iakëxa
+
+<Sync time="179.256"/>
+a kama unin puruma unia akamaribi
+</Turn>
+</Section>
+</Episode>
+</Trans>

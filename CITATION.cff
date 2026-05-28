@@ -1,0 +1,42 @@
+cff-version: 1.2.0
+message: "If you use this dataset or code, please cite it as below."
+type: dataset
+title: >-
+  From Clause-Chaining to Parataxis: Intergenerational Variation in Clause
+  Linkage Strategies among Kakataibo Speakers — Data and Code
+authors:
+  - family-names: Zariquiey
+    given-names: Roberto
+    affiliation: "Pontificia Universidad Católica del Perú"
+    orcid: ""
+  - family-names: Poblete
+    given-names: Mariana
+    affiliation: "Pontificia Universidad Católica del Perú"
+  - family-names: Sato
+    given-names: Jorge
+    affiliation: "Universidad Nacional Intercultural de la Amazonía (UNIA)"
+  - family-names: Torres
+    given-names: Amelia
+    affiliation: "Universidad Nacional Intercultural de la Amazonía (UNIA)"
+repository-code: "https://github.com/rzariquiey/kakataibo-intergenerational-variation"
+abstract: >-
+  Data and analysis scripts accompanying the study of intergenerational
+  variation in switch-reference and clause-linkage strategies among
+  Kakataibo (Pano, Peru) speakers. The corpus comprises Isakuna story
+  narratives from 27 speakers divided into three generational cohorts
+  (elderly, adult, young). Non-parametric statistical analyses
+  (Kruskal-Wallis, Mann-Whitney U, Spearman ρ) document a systematic
+  reduction in switch-reference density and structural complexity
+  across generations.
+keywords:
+  - Kakataibo
+  - Pano
+  - switch-reference
+  - clause linkage
+  - intergenerational variation
+  - language documentation
+  - Peru
+  - endangered languages
+license: "CC-BY-4.0"
+version: "1.0.0"
+date-released: "2026-05-28"
